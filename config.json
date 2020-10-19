@@ -1,8 +1,8 @@
 {
 
  "Account": {
-     "Username": "kastrasurosona",
-     "Password": "100890",
+     "Username": "sartojanggalana",
+     "Password": "12345",
      "Authenticator": " "
      },
  "Target Profit": "100.00000000",
@@ -17,8 +17,8 @@
      "Chance": "87.75",
      "Random Chance": {
           "Toggle": "ON",
-          "Min": "5",
-          "Max": "10"
+          "Min": "7",
+          "Max": "11.5"
         },
      "Bet": {
           "Bet": "Hi",
