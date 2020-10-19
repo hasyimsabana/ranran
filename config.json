@@ -17,8 +17,8 @@
      "Chance": "87.75",
      "Random Chance": {
           "Toggle": "ON",
-          "Min": "15",
-          "Max": "35"
+          "Min": "9",
+          "Max": "15"
         },
      "Bet": {
           "Bet": "Hi",
