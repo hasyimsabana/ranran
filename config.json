@@ -1,18 +1,18 @@
 {
 
  "Account": {
-     "Username": "ranran45",
-     "Password": "12",
+     "Username": "kastrasurosona",
+     "Password": "100890",
      "Authenticator": " "
      },
- "Target Profit": "20.00000000",
- "Target Win": "3050.000000",
+ "Target Profit": "400000.00000000",
+ "Target Win": "305000.000000",
  "Lose Target": "0.0",
  "Interval": "1",
  "Config": [{
 
      "Name Bet Set": "  5 - 10 %",
-     "Base Bet": "0.01",
+     "Base Bet": "0.001",
      "Max Bet": "OFF",
      "Chance": "87.75",
      "Random Chance": {
